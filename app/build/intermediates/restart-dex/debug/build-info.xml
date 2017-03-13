@@ -6,26 +6,33 @@
     density="hdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489405534156"
+    timestamp="1489410837254"
     token="-3760974114508666089"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="213" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="13" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
+
+    <artifact
+        location="C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1489404410489"
+        timestamp="1489409772067"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -63,7 +70,15 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1489405512973"
+        timestamp="1489410808886"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1489410837254"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -72,9 +87,5 @@
             location="C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1489405534156"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
