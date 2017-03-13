@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Mar 13 03:46:42 PDT 2017
+1.base=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+2.base=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+0.file=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
