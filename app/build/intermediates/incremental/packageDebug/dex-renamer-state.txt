@@ -1,4 +1,4 @@
-#Sun Mar 19 09:59:58 PDT 2017
+#Sun Mar 19 10:40:03 PDT 2017
 base.0=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_eb1115bc96aaad7a1a86ea2dd801c819a46b4422
 renamed.1=classes.dex
 renamed.0=classes2.dex

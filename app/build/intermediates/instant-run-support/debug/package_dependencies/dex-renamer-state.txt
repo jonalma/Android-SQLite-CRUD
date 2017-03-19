@@ -1,4 +1,4 @@
-#Sun Mar 19 09:59:57 PDT 2017
+#Sun Mar 19 10:40:02 PDT 2017
 file.2=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_7828a3c397683f7f83a9ef2f6763a45d5c6c02fd\\classes.dex
 base.2=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.2.0_7828a3c397683f7f83a9ef2f6763a45d5c6c02fd
 file.1=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6f071463484fe5e13f557afce89f8a4e6a1b89df\\classes.dex
