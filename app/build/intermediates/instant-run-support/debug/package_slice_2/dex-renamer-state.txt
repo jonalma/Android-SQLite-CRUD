@@ -1,4 +1,4 @@
-#Mon Mar 13 04:13:02 PDT 2017
+#Sun Mar 19 09:59:57 PDT 2017
 base.0=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
 file.0=C\:\\Users\\jon.almazan\\AndroidStudioProjects\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

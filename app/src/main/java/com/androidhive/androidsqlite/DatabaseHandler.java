@@ -8,6 +8,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.util.Log;
 
 public class DatabaseHandler extends SQLiteOpenHelper {
 
@@ -70,9 +71,9 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 	Contact getContact(int id) {
 		SQLiteDatabase db = this.getReadableDatabase();
 
-		Cursor cursor = db.query(TABLE_CONTACTS, new String[] { KEY_ID,
-				KEY_NAME, KEY_PH_NO }, KEY_ID + "=?",
-				new String[] { String.valueOf(id) }, null, null, null, null);
+		Cursor cursor = db.query(TABLE_CONTACTS, new String[]{KEY_ID,
+						KEY_NAME, KEY_PH_NO}, KEY_ID + "=?",
+				new String[]{String.valueOf(id)}, null, null, null, null);
 		if (cursor != null)
 			cursor.moveToFirst();
 
@@ -125,9 +126,9 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 		SQLiteDatabase db = this.getWritableDatabase();
 		db.delete(TABLE_CONTACTS, KEY_ID + " = ?",
 				new String[] { String.valueOf(contact.getID()) });
+
 		db.close();
 	}
-
 
 	// Getting contacts Count
 	public int getContactsCount() {

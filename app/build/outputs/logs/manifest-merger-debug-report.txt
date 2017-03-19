@@ -17,6 +17,20 @@ ADDED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\
 		ADDED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:25.2.0] C:\Users\jon.almazan\.android\build-cache\f0e8fa876e11afeff4e7f58f26d4bc588e0535e3\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\jon.almazan\.android\build-cache\e5e0e9dfbaddf60a8db32e02ba0c2b85069c95d9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\jon.almazan\.android\build-cache\4912994c652bdc5ea010c8e3226ba63811324e68\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\jon.almazan\.android\build-cache\0986cc7bb8d38538701beb9586ebb0cfbfc2d14e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\jon.almazan\.android\build-cache\1796b6cf0df1283013fab6984d2b02f17bfec362\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\jon.almazan\.android\build-cache\81f3c0d3e21d84afd340b712e6dbc9531f2c27e7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\jon.almazan\.android\build-cache\d66c0320f86bc3e1e64573e09401b7898a0c55b6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\jon.almazan\.android\build-cache\431676afe1e97f3e42b79980ec3b3c972b33ac96\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\jon.almazan\.android\build-cache\90968ca958195c948d183209286bd120dd2b1f30\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\jon.almazan\.android\build-cache\19979904cd6d985e19478e90839dc656bcae4f48\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\jon.almazan\.android\build-cache\f4aa10f66b5447a35ee7216f10f04b182a961286\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\jon.almazan\.android\build-cache\fab799148ca0608bdd26f8dbe9fdd98c4e53aed5\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\jon.almazan\.android\build-cache\f0e8fa876e11afeff4e7f58f26d4bc588e0535e3\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml
@@ -26,6 +40,17 @@ ADDED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\
 		INJECTED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml:9:5-21:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\jon.almazan\.android\build-cache\f0e8fa876e11afeff4e7f58f26d4bc588e0535e3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\jon.almazan\.android\build-cache\e5e0e9dfbaddf60a8db32e02ba0c2b85069c95d9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\jon.almazan\.android\build-cache\4912994c652bdc5ea010c8e3226ba63811324e68\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\jon.almazan\.android\build-cache\0986cc7bb8d38538701beb9586ebb0cfbfc2d14e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\jon.almazan\.android\build-cache\81f3c0d3e21d84afd340b712e6dbc9531f2c27e7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\jon.almazan\.android\build-cache\d66c0320f86bc3e1e64573e09401b7898a0c55b6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\jon.almazan\.android\build-cache\431676afe1e97f3e42b79980ec3b3c972b33ac96\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\jon.almazan\.android\build-cache\90968ca958195c948d183209286bd120dd2b1f30\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\jon.almazan\.android\build-cache\19979904cd6d985e19478e90839dc656bcae4f48\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\jon.almazan\.android\build-cache\f4aa10f66b5447a35ee7216f10f04b182a961286\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\jon.almazan\.android\build-cache\fab799148ca0608bdd26f8dbe9fdd98c4e53aed5\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\jon.almazan\AndroidStudioProjects\AndroidSQLiteTutorial\app\src\main\AndroidManifest.xml:11:9-41
 	android:icon
